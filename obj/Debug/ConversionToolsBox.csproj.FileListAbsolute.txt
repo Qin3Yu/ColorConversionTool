@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\bin\Debug\ConversionToolsBox.exe.config
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\bin\Debug\ConversionToolsBox.exe
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\bin\Debug\ConversionToolsBox.pdb
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\obj\Debug\ConversionToolsBox.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\obj\Debug\ConversionToolsBox.Form1.resources
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\obj\Debug\ConversionToolsBox.Properties.Resources.resources
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\obj\Debug\ConversionToolsBox.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\obj\Debug\ConversionToolsBox.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\obj\Debug\ConversionToolsBox.exe
+C:\Users\Acer\Desktop\ProgramTest\C#Test\ConversionToolsBox\obj\Debug\ConversionToolsBox.pdb
